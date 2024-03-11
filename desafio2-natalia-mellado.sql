@@ -1,4 +1,4 @@
-CREATE DATABASE desafio2-natalia-mellado;
+CREATE DATABASE desafio2_natalia_mellado_000;
 
 CREATE TABLE INSCRITOS(
     cantidad INT, 
